@@ -1,0 +1,9 @@
+body{
+    background-image: url(CC.webp);
+    text-align: center;
+    text-size-adjust: 50px;
+    text-transform: capitalize;
+    background-repeat: no-repeat;
+    text-decoration-color: black;
+    background-size: cover;
+}
